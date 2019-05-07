@@ -4,19 +4,29 @@ Instalacion de los servicios.
 
 ## Instalacion LAMP
 
-Actualiza tu sistema y asegurate de tener
+Actualiza tu sistema y asegurate de tener los paquetes mas recientes.
 ```bash
 sudo apt-get update
+sudo apt-get upgrade
+```
+Ahora instala Apache2.
+```bash
 sudo apt-get install apache2
 ```
-
+MySQL es la base de datos para tu aplicacion. Para instalar MySQL, ingrese el siguiente comando.
+```bash
+sudo apt-get install mysql-server
+```
+PHP ejecuta tu aplicacion. Instalar PHP y modulos adicionales con el siguiente comando.
+```bash
+sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
+```
 :banana:
 :orange:
 
-## Sub-sub apartado
+## Instalar RRDTOOLS
 
--Primero
--Segundo
+
 
 
 Texto en **negrita** y en *cursiva*.
