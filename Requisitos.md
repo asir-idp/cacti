@@ -1,6 +1,6 @@
 # Requisitos
 
-Para utilizar la herramienta Cacti, el sistema debe tener instalado los siguientes paquetes:
+- Sistema operativo Linux
 
 - PHP
 
