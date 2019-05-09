@@ -29,11 +29,44 @@ sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
 
 Su finalidad es el tratamiento de datos temporales y datos seriales como temperaturas, transferencias en redes, cargas del procesador, etc.
 
+Y lo instalaremos con el siguiente comando:
+
 ```bash
 sudo apt-get -y install rrdtool
 ```
 
-![Mi imagen](images/foto.jpg)
+## Instalar SNMP y SNMPD
+
+
+Permite a los administradores supervisar el desempeño de la red, buscar y resolver sus problemas, y planear y crecimiento.
+
+```bash
+sudo apt-get -y install snmp snmpd
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. Primero
 2. Segundo
 3. Tercero
