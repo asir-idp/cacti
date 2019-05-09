@@ -23,22 +23,14 @@ PHP ejecuta tu aplicacion. Instalar PHP y modulos adicionales con el siguiente c
 ```bash
 sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
 ```
-:banana:
-:orange:
+
 
 ## Instalar RRDTOOLS
 
-
-
-
-Texto en **negrita** y en *cursiva*.
-
-Typora: Editor WYSIWYG de Markdown.
+Su finalidad es el tratamiento de datos temporales y datos seriales como temperaturas, transferencias en redes, cargas del procesador, etc.
 
 ```bash
-$ sudo su
-# cd /root
-# nano loquesea
+sudo apt-get -y install rrdtool
 ```
 
 ![Mi imagen](images/foto.jpg)
