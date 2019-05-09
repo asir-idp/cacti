@@ -6,7 +6,7 @@ Con **Cacti** podremos monitorizar cualquier equipo de red que soporte el protoc
 
 ## Instalacion LAMP
 
-Primero Actualizamos nuestro sistema y nos aseguramos de tener los paquetes mas recientes.
+Primero **Actualizamos** nuestro sistema y nos aseguramos de tener los paquetes mas recientes.
 
 Los podemos actualizar escribiendo los siguientes comandos:
 
@@ -20,7 +20,9 @@ Ahora instala Apache2.
 ```bash
 sudo apt-get install apache2
 ```
-MySQL es la base de datos para tu aplicacion. Para instalar MySQL, ingrese el siguiente comando.
+Ahora es el momento de instalar **MySQL**, que es un sistema de gestion de base de datos. Se encarga de organizar y facilitar el acceso a las bases de datos. 
+
+Para ello ejecutamos el siguiente comando.
 ```bash
 sudo apt-get install mysql-server
 ```
@@ -72,8 +74,5 @@ sudo apt-get -y install snmp snmpd
 
 
 
-1. Primero
-2. Segundo
-3. Tercero
 
 Enlace a [Google](https://www.google.com).
