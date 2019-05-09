@@ -28,6 +28,9 @@ Para ello ejecutamos el siguiente comando.
 ```bash
 sudo apt-get install mysql-server
 ```
+##
+
+
 PHP ejecuta tu aplicacion. Instalar PHP y modulos adicionales con el siguiente comando.
 ```bash
 sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
