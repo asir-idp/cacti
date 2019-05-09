@@ -20,6 +20,8 @@ Ahora instala Apache2.
 ```bash
 sudo apt-get install apache2
 ```
+##
+
 Ahora es el momento de instalar **MySQL**, que es un sistema de gestion de base de datos. Se encarga de organizar y facilitar el acceso a las bases de datos. 
 
 Para ello ejecutamos el siguiente comando.
