@@ -6,11 +6,16 @@ Con **Cacti** podremos monitorizar cualquier equipo de red que soporte el protoc
 
 ## Instalacion LAMP
 
-Actualiza tu sistema y asegurate de tener los paquetes mas recientes.
+Primero Actualizamos nuestro sistema y nos aseguramos de tener los paquetes mas recientes.
+
+Los podemos actualizar escribiendo los siguientes comandos:
+
 ```bash
 sudo apt-get update
 sudo apt-get upgrade
 ```
+##
+
 Ahora instala Apache2.
 ```bash
 sudo apt-get install apache2
