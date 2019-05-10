@@ -2,6 +2,16 @@
 
 ***¿Que es LAMP?***
 
+Es el acrónimo usado para describir un sistema de infraestructura de internet que usa las siguientes herramientas:
+
+**Linux**, *el sistema operativo; En algunos casos también se refiere a LDAP*.
+
+**Apache**, *el servidor web*;
+
+**MySQL**, *el gestor de bases de datos*;
+
+**PHP, o Python**, *los lenguajes de programación*.
+
 ## Instalacion LAMP
 
 Primero **Actualizamos** nuestro sistema y nos aseguramos de tener los paquetes mas recientes.
@@ -56,29 +66,3 @@ Permite a los administradores supervisar el desempeño de la red, buscar y resol
 ```bash
 sudo apt-get -y install snmp snmpd
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Enlace a [Google](https://www.google.com).
