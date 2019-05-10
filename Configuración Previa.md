@@ -5,8 +5,11 @@
 Es el acrónimo usado para describir un sistema de infraestructura de internet que usa las siguientes herramientas:
 
 **Linux**, *el sistema operativo; En algunos casos también se refiere a LDAP*.
+
 **Apache**, *el servidor web*;
+
 **MySQL**, *el gestor de bases de datos*;
+
 **PHP, o Python**, *los lenguajes de programación*.
 
 ## Instalacion LAMP
