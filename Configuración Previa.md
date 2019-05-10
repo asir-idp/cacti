@@ -16,7 +16,9 @@ sudo apt-get upgrade
 ```
 ##
 
-**Apache** es un servicio de paginas web **HTTP** de código abierto que sirve para colocar varias plataformas como *Unix*, *BSD*, *GNU/Linux*, *Windows*, *Macintosh* entre otros que implementan el protocolo **HTTP**
+**Apache** es un servicio de paginas web **HTTP** de código abierto que sirve para colocar varias plataformas como *Unix*, *BSD*, *GNU/Linux*, *Windows*, *Macintosh* entre otros que implementan el protocolo **HTTP**.
+
+Lo instalaremos con este comando:
 ```bash
 sudo apt-get install apache2
 ```
@@ -30,8 +32,9 @@ sudo apt-get install mysql-server
 ```
 ##
 
+Es un lenguaje de programación diseñado para producir *sitios web dinámicos*. **PHP** es utilizado en aplicaciones del lado del servidor, aunque puede ser usado también desde una interfaz de *línea de comandos o como aplicación de escritorio*.
 
-PHP ejecuta tu aplicacion. Instalar PHP y modulos adicionales con el siguiente comando.
+Para instalar PHP y sus modulos adicionales debemos ejecutar el siguiente comando:
 ```bash
 sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
 ```
