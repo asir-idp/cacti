@@ -17,7 +17,7 @@ Es describir un sistema de infraestructura de internet que usa las siguientes he
 
 ***PHP o Python***, *los lenguajes de programación*.
 
-## Instalacion LAMP
+# Instalacion LAMP
 
 Primero **Actualizamos** nuestro sistema y nos aseguramos de tener los paquetes mas recientes.
 
@@ -27,7 +27,7 @@ Los podemos actualizar escribiendo los siguientes comandos:
 sudo apt-get update
 sudo apt-get upgrade
 ```
-##
+## Apache 
 
 **Apache** es un servicio de paginas web **HTTP** de código abierto que sirve para colocar varias plataformas como *Unix*, *BSD*, *GNU/Linux*, *Windows*, *Macintosh* entre otros que implementan el protocolo **HTTP**.
 
@@ -35,7 +35,7 @@ Lo instalaremos con este comando:
 ```bash
 sudo apt-get install apache2
 ```
-##
+## MySQL
 
 Ahora es el momento de instalar **MySQL**, que es un sistema de gestion de base de datos. Se encarga de organizar y facilitar el acceso a las bases de datos. 
 
@@ -43,7 +43,7 @@ Para ello ejecutamos el siguiente comando.
 ```bash
 sudo apt-get install mysql-server
 ```
-##
+## PHP
 
 Es un lenguaje de programación diseñado para producir *sitios web dinámicos*. **PHP** es utilizado en aplicaciones del lado del servidor, aunque puede ser usado también desde una interfaz de *línea de comandos o como aplicación de escritorio*.
 
