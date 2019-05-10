@@ -2,15 +2,20 @@
 
 ***¿Que es LAMP?***
 
-Es el acrónimo usado para describir un sistema de infraestructura de internet que usa las siguientes herramientas:
+Es un grupo de software de código libre que es instala normalmente en conjunto para habilitar un servidor para alojar sitios y aplicaciones web.
 
-**Linux**, *el sistema operativo; En algunos casos también se refiere a LDAP*.
 
-**Apache**, *el servidor web*;
+***¿Cual es el acrónimo de LAMP?***
 
-**MySQL**, *el gestor de bases de datos*;
+Es describir un sistema de infraestructura de internet que usa las siguientes herramientas:
 
-**PHP, o Python**, *los lenguajes de programación*.
+***Linux***, *el sistema operativo; En algunos casos también se refiere a LDAP*.
+
+***Apache***, *el servidor web*.
+
+***MySQL***, *el gestor de bases de datos*.
+
+***PHP o Python***, *los lenguajes de programación*.
 
 ## Instalacion LAMP
 
