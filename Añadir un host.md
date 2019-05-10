@@ -27,13 +27,13 @@ Una vez agregado, el dispositivo estará en el listado de dispositivos(Console>D
 
 Dar clic en el dipsositivo y seleccionar la opción de “Create graphs for this Host”
 
-![imagen](images/c06.jpg)
+![imagen](images/c06.JPG)
 
 Hay diferentes opciones para crear gráficas, seleccionaremos la que nos interese.
 
-![imagen](images/c07.jpg)
+![imagen](images/c07.JPG)
 
 Ya con las gráficas creadas para el nuevo dispositivo, después de unos minutos, el estado del mismo deberá cambiar a UP, de lo contrario verificar que SNMP funciona correctamente.
 
-![imagen](images/c08.jpg)
+![imagen](images/c08.JPG)
 
