@@ -29,7 +29,7 @@ sudo apt-get upgrade
 ```
 ## Apache 
 
-**Apache** es un servicio de paginas web **HTTP** de código abierto que sirve para colocar varias plataformas como *Unix*, *BSD*, *GNU/Linux*, *Windows*, *Macintosh* entre otros que implementan el protocolo **HTTP**.
+**Apache** es un servicio de paginas web **HTTP** de código abierto que sirve para colocar varias plataformas como ***Unix, BSD, GNU/Linux, Windows, Macintosh*** entre otros que implementan el protocolo **HTTP**.
 
 Lo instalaremos con este comando:
 ```bash
