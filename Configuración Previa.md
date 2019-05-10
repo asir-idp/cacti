@@ -1,8 +1,6 @@
 # CACTI
 
-**Cacti** es una herramienta que permite monitorizar y visualizar gráficas y estadísticas de dispositivos conectados a una red y que tengan habilitado el protocolo **SNMP**.
-
-Con **Cacti** podremos monitorizar cualquier equipo de red que soporte el protocolo SNMP, ya sea un switch, un router o un servidor *Linux*. 
+***¿Que es LAMP?***
 
 ## Instalacion LAMP
 
