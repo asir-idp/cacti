@@ -16,7 +16,7 @@ sudo apt-get upgrade
 ```
 ##
 
-Ahora instala Apache2.
+**Apache** es un servicio de paginas web *HTTP* de código abierto que sirve para colocar varias plataformas como *Unix*, *BSD*, *GNU/Linux*, *Windows*, *Macintosh* entre otros que implementan el protocolo **HTTP**
 ```bash
 sudo apt-get install apache2
 ```
