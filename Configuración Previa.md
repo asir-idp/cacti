@@ -53,7 +53,7 @@ sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql
 ```
 
 
-## Instalar RRDTOOLS
+# Instalar RRDTOOLS
 
 Su finalidad es el tratamiento de datos temporales y datos seriales como *temperaturas, transferencias en redes, cargas del procesador, etc*.
 
@@ -63,7 +63,7 @@ Y lo instalaremos con el siguiente comando:
 sudo apt-get -y install rrdtool
 ```
 
-## Instalar SNMP y SNMPD
+# Instalar SNMP y SNMPD
 
 Simple Network Management Protocol) es un protocolo de la capa de aplicación que facilita el intercambio de información de administración entre dispositivos de red. Los dispositivos que normalmente soportan SNMP incluyen routers, switches, servidores, estaciones de trabajo, impresoras, bastidores de módem y muchos más.
 
