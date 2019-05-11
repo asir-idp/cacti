@@ -43,7 +43,7 @@ rocommunity6 public  default   -V all
 
 ![imagen](images/cliente3.jpg)
 
-*** Una vez configurado nuestro fichero, ¿qué debemos hacer?***
+***Una vez configurado nuestro fichero, ¿qué debemos hacer?***
 
 El siguiente paso es reiniciar el servicio: 
 
