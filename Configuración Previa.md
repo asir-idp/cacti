@@ -1,13 +1,14 @@
 # CACTI
 
+Para poder instalar Cacti, primero necesitamos instalar unas herramientas previas.
+Linux cuenta con ellas en su repositorio y serían: el paquete LAMP, RRDtools, SNMP y SNMPD. 
+
 ***¿Que es LAMP?***
 
-Es un grupo de software de código libre que es instala normalmente en conjunto para habilitar un servidor para alojar sitios y aplicaciones web.
+Es un grupo de software de código libre que se instala normalmente en conjunto para habilitar un servidor para alojar sitios y aplicaciones web.
 
 
 ***¿Cual es el acrónimo de LAMP?***
-
-Es describir un sistema de infraestructura de internet que usa las siguientes herramientas:
 
 ***Linux***, *el sistema operativo; En algunos casos también se refiere a LDAP*.
 
@@ -19,9 +20,9 @@ Es describir un sistema de infraestructura de internet que usa las siguientes he
 
 # Instalacion LAMP
 
-Primero **Actualizamos** nuestro sistema y nos aseguramos de tener los paquetes mas recientes.
+Primero **Actualizamos** nuestro sistema y nos aseguramos de tener los paquetes más recientes.
 
-Los podemos actualizar escribiendo los siguientes comandos:
+Lo podemos actualizar escribiendo los siguientes comandos:
 
 ```bash
 sudo apt-get update

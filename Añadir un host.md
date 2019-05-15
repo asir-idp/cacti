@@ -37,3 +37,16 @@ Ya con las gráficas creadas para el nuevo dispositivo, después de unos minutos
 
 ![imagen](images/c08.JPG)
 
+Para visualizar las gráficas iremos a "graphs" en la esquina superior izquierda.
+
+![image](images/c09.JPG)
+
+Una vez allí, si hemos seguido los pasos de instalación correctamente, podremos visualizar las gráficas, tanto de nuestro propio equipo (localhost) como del cliente que hemos añadido.
+
+![image](images/c10.JPG)
+
+![image](images/c11.JPG)
+
+
+*Nota: en ocasiones aparece un bug en el programa y no se pueden visualizar las gráficas como ocurre en la segunda imagen. Hemos detallado este error en "Issues".
+
